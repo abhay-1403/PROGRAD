@@ -1,0 +1,32 @@
+body{
+    background:skyblue;
+    text-align:center;  background:url(https://icebreakerideas.com/wp-content/uploads/2015/10/Round-the-Clock%E2%80%9D-Dice-Game-e1445300310497.jpg);
+    background-size: cover;
+  }
+  label,button,input{
+    font-size:2em;
+    text-align:center;
+    border-radius:20px;
+  }
+  input{
+    width:100px;
+  }
+  button:hover{
+    box-shadow:0 0 20px 0 rgb(255, 0, 0);
+  }
+  div{
+    font-size:2em;
+    text-shadow: 0 0 3px black;
+  }
+  button{
+    width:300px;
+    
+  }
+  .header{
+    color:white;
+    margin-top: 100px;
+  }
+  .res{
+    color:white;
+    font-weight:900;
+  }
